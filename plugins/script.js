@@ -67,7 +67,7 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363318387454868@newsletter',
+                    newsletterJid: '120363402970588262newsletter',
                     newsletterName: 'RAHUL-AI-V3 𝐒ʊ̊𝐏𝐏๏፝֟ɼʈ  ⃪🤖͎᪳᪳𝆺𝅥',
                     serverMessageId: 143
                 }
@@ -84,7 +84,7 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: false,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363318387454868@newsletter',
+                    newsletterJid: '120363402970588262@newsletter',
                     newsletterName: 'RAHUL-AI-V3',
                     serverMessageId: 143
                 }
