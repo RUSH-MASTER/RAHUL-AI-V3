@@ -385,7 +385,7 @@ await conn.sendMessage(from,{image:{url: config.ALIVE_IMG},caption:madeMenu,
 }, { quoted: mek });
             // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/r9x8ga.mp4' },
+            audio: { url: 'https://files.catbox.moe/ip087b.mp4' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
