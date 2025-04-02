@@ -64,9 +64,7 @@ Generate your session ID for deployment:
 
 **🚀 Deploy On Koyeb**
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)]
-(https://app.koyeb.com/deploy?name=rahul-ai-v3&repository=rahulmaster143%2FRAHUL-AI-V3&branch=main&builder=dockerfile&instance_type=free&instances_min=0&autoscaling_sleep_idle_delay=300&env%5BALWAYS_ONLINE%5D=false&env%5BANTI_LINK%5D=true&env%5BAUTO_REACT%5D=false&env%5BAUTO_STATUS_MSG%5D=Seen+status+by+RAHUL-AI-V3&env%5BAUTO_STATUS_REPLY%5D=false&env%5BAUTO_STATUS_SEEN%5D=true&env%5BAUTO_TYPING%5D=false&env%5BMODE%5D=public&env%5BPREFIX%5D=.&env%5BREAD_MESSAGE%5D=false&env%5BSESSION_ID%5D=RAHUL-AI-MD%7E3JwhBKrC%23mPZ_KV_XtFf-ZC5YOhwgm09r15CS0NvFr696QoQkflo)
-
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=rahul-ai-v3&repository=rahulmaster143%2FRAHUL-AI-V3&branch=main&builder=dockerfile&instance_type=free&instances_min=0&autoscaling_sleep_idle_delay=300&env%5BALWAYS_ONLINE%5D=false&env%5BANTI_LINK%5D=true&env%5BAUTO_REACT%5D=false&env%5BAUTO_STATUS_MSG%5D=Seen+status+by+RAHUL-AI-V3&env%5BAUTO_STATUS_REPLY%5D=false&env%5BAUTO_STATUS_SEEN%5D=true&env%5BAUTO_TYPING%5D=false&env%5BMODE%5D=public&env%5BPREFIX%5D=.&env%5BREAD_MESSAGE%5D=false&env%5BSESSION_ID%5D=RAHUL-AI-MD%7E3JwhBKrC%23mPZ_KV_XtFf-ZC5YOhwgm09r15CS0NvFr696QoQkflo)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
