@@ -13,7 +13,11 @@
 
 
 <p align="center">Introducing RAHUL AI V3, designed to bring a whole new level of excitement to your WhatsApp usage.</p>
-
+<p align="center">
+  <a href="https://github.com/Rahulmaster143/Rahul-ai-v3">
+    <img alt="Silva docs" height="250" src="https://i.imgur.com/7bSFO2O.jpeg">
+  </a>
+</p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
