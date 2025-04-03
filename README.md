@@ -9,7 +9,11 @@
 
 ![Bot Image](https://files.catbox.moe/i79zfg.jpg)
 
-**`Simple and Best WhatsApp Bot Created by [RAHUL-MASTER](https://github.com/rahulmaster143)`**
+**Simple and Best WhatsApp Bot Created by [RAHUL-MASTER](https://github.com/rahulmaster143)**
+
+
+<p align="center">Introducing RAHUL AI V3, designed to bring a whole new level of excitement to your WhatsApp usage.</p>
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
