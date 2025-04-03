@@ -11,13 +11,9 @@
 
 **Simple and Best WhatsApp Bot Created by [RAHUL-MASTER](https://github.com/rahulmaster143)**
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝗣𝗥𝗜𝗡𝗖𝗘+𝗦𝗘𝗥+𝗠𝗗+𝘽𝙊𝙏+𝙍𝙀𝗣𝗢𝗣𝗘𝗗.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝗣𝗥𝗜𝗡𝗖𝗘+𝗦𝗘𝗥;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝗦𝗣𝗔𝗖𝗜𝗟𝗜𝗖𝗘𝗗+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
 
-<p align="center">Introducing RAHUL AI V3, designed to bring a whole new level of excitement to your WhatsApp usage.</p>
-<p align="center">
-  <a href="https://github.com/Rahulmaster143/Rahul-ai-v3">
-    <img alt="silva docs" height="250" src="[https://files.catbox.moe/9keimy.jpg]">
-  </a>
-</p>
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
