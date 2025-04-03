@@ -9,9 +9,7 @@
 
 ![Bot Image](https://files.catbox.moe/i79zfg.jpg)
 
-**Simple and Best WhatsApp Bot Created by [RAHUL-MASTER](https://github.com/rahulmaster143)**
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙍𝘼𝙃𝙐𝙇+𝘼𝙄+𝙑𝟯+𝙍𝙀𝗣𝗢𝗣𝗘𝗗.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙍𝘼𝙃𝙐𝙇+𝙈𝘼𝙎𝙏𝙀𝙍;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝙎𝙄𝙈𝙋𝙇𝙀+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙍𝘼𝙃𝙐𝙇+𝘼𝙄+𝙑𝟯+𝙍𝙀𝗣𝗢𝗣𝗘𝗗.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙍𝘼𝙃𝙐𝙇+𝙈𝘼𝙎𝙏𝙀𝙍;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝙎𝙄𝙈𝙋𝙇𝙀+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂)](https://git.io/typing-svg)
 
 
 
