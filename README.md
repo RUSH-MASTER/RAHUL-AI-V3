@@ -22,7 +22,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## ⏰ Get Session ID 🆔 
+## *`⏰ Get Session ID 🆔`* 
 
 Generate your session ID for deployment:
 
