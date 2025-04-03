@@ -23,15 +23,15 @@ cmd({
         const runtimeHours = Math.floor(runtimeMilliseconds / (1000 * 60 * 60));
 
         const formattedInfo = `
-🌟 *RAHUL AI V3 STATUS* 🌟
+🌟 *𝙍𝘼𝙃𝙐𝙇 𝘼𝙄 𝙑𝟯 𝙎𝙏𝘼𝙏𝙐𝙎* 🌟
 Hey 👋🏻 ${pushname}
 🕒 *Time*: ${currentTime}
 📅 *Date*: ${currentDate}
 ⏳ *Uptime*: ${runtimeHours} hours, ${runtimeMinutes} minutes, ${runtimeSeconds} seconds
 
-*🤖sᴛᴀᴛᴜs*: *RAHUL-AI-V3 created by rahul-master*
+*🤖𝑺𝑻𝑨𝑻𝑼𝑺*: *𝙍𝘼𝙃𝙐𝙇-𝘼𝙄-𝙑𝟯 𝘾𝙍𝙀𝘼𝙏𝙀𝘿 𝘽𝙔 𝙍𝘼𝙃𝙐𝙇-𝙈𝘼𝙎𝙏𝙀𝙍*
 
-*🤍 POWERED BY RAHUL-MASTER*
+*🤍 𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 🅡𝗔𝗛𝗨𝗟-🅜𝘼𝙎𝙏𝙀𝙍*
         `.trim();
 
         // Vérifier si l'image est définie
