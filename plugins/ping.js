@@ -55,7 +55,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const message = await conn.sendMessage(from, { text: '> ᴍᴇʟᴛɪɴɢ...*' })
         const endTime = Date.now()
         const ping = endTime - startTime
-        await conn.sendMessage(from, { text: `> *✈️ RAHUL-AI-V3-SPEED 🚀  : ${ping}ms*` }, { quoted: message })
+        await conn.sendMessage(from, { text: `> *✈️ 🅡𝘼𝙃𝙐𝙇-🅐𝙄-🅥𝟯-🅢𝙿𝙴𝙴𝙳 🚀  : ${ping}ms*` }, { quoted: message })
     } catch (e) {
         console.log(e)
         reply(`${e}`)
@@ -106,7 +106,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
                 isForwarded: false,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363318387454868@newsletter',
-                    newsletterName: " 🚨 RAHUL-AI-V3 🎉 𝐏๏፝֟ƞ̽g  ⃪®️𝆺𝅥",
+                    newsletterName: " 🚨 🅡𝘼𝙃𝙐𝙇-🅐𝙄-🅥𝟯- 🎉 🆂𝙿𝙴𝙴𝙳  ⃪®️𝆺𝅥",
                     serverMessageId: 143
                 }
             }
@@ -133,7 +133,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const message = await conn.sendMessage(from, { text: '\`RAHUL PINGING 🚀\`' })
         const endTime = Date.now()
         const ping = endTime - startTime
-        await conn.sendMessage(from, { text: `*RAHUL-AI-V3 PONGED ! : ${ping}ms ⚡*` }, { quoted: message })
+        await conn.sendMessage(from, { text: `*🅡𝘼𝙃𝙐𝙇-🅐𝙄-🅥𝟯-🅢𝙿𝙴𝙴𝙳! : ${ping}ms ⚡*` }, { quoted: message })
     } catch (e) {
         console.log(e)
         reply(`${e}`)
