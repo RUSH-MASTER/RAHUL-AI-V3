@@ -1,20 +1,21 @@
 # RAHUL-AI-V3 WHATSAPP BOT 🎧 AUTO BGM
-# FEATURES AVAILABLE ✅
+
+# *`FEATURES AVAILABLE ✅`*
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-# RAHUL-AI-V3 WHATSAPP BOT 🤍🚨
+# *`RAHUL-AI-V3 WHATSAPP BOT 🤍🚨`*
 
 ![Bot Image](https://files.catbox.moe/i79zfg.jpg)
 
-**Simple and Best WhatsApp Bot Created by [RAHUL-MASTER](https://github.com/rahulmaster143)**
+**`Simple and Best WhatsApp Bot Created by [RAHUL-MASTER](https://github.com/rahulmaster143)`**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## 🔗 Repository
+## *`🔗 Repository`*
 
 [![Fork the Repo](https://img.shields.io/badge/Fork%20Repo-blue?style=for-the-badge)](https://github.com/rahulmaster143/RAHUL-AI-V3/fork)
 
@@ -28,12 +29,12 @@ Generate your session ID for deployment:
 
 [![Get Pair Code](https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge)](https://pair-code-new-o1lq.onrender.com/)
 
-## ✨ POWERED BY RAHUL-MASTER 🌟
+## *`✨ POWERED BY RAHUL-MASTER 🌟`*
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 🚀  Deployment Options 🚨
+## *`🚀  Deployment Options 🚨`*
 
 - [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Frahulmaster143%2FRAHUL-AI-V3)  
   [Create a Heroku Account](https://signup.heroku.com/) if you don't have one.
@@ -45,7 +46,7 @@ Generate your session ID for deployment:
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### **Deploy ke Render**  
+### *`Deploy ke Render`* 
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FRahulmaster143%2FRAHUL-AI-V3)  
 
@@ -69,7 +70,7 @@ Generate your session ID for deployment:
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## 🙏 Thank You!
+## *`🙏 Thank You!`*
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
