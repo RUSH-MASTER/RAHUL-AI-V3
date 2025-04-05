@@ -10,7 +10,7 @@ let videoUrl = q;
         videoUrl = searchResults.videos[0].url;
     }
     
-    const apiUrl = `https://apis.davidcyriltech.my.id/youtube/mp4?url=${videoUrl}`;
+    const apiUrl = `https://dl.ymcdn.org/d9069ea4857eee845c1d97983df54c15/vACLHDmeJPs}`;
     const response = await axios.get(apiUrl);
     if (!response.data || !response.data.status || !response.data.result.url) {
         return reply("Failed to fetch the video. Try again later.");
@@ -38,7 +38,7 @@ let videoUrl = q;
         videoUrl = searchResults.videos[0].url;
     }
     
-    const apiUrl = `https://apis.davidcyriltech.my.id/youtube/mp3?url=${videoUrl}`;
+    const apiUrl = `https://dl.ymcdn.org/d9069ea4857eee845c1d97983df54c15/vACLHDmeJPs}`;
     const response = await axios.get(apiUrl);
     if (!response.data || !response.data.success || !response.data.result.downloadUrl) {
         return reply("Failed to fetch the audio. Try again later.");
