@@ -20,7 +20,7 @@ cmd({
         if (yt.results.length < 1) return reply("No results found!");
         
         let yts = yt.results[0];  
-        let apiUrl = `https://apis.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(yts.url)}`;
+        let apiUrl = `https://dl.ymcdn.org/15919b85804fec1d8459e6a5e01b0c1b/vACLHDmeJPs{encodeURIComponent(yts.url)}`;
         
         let response = await fetch(apiUrl);
         let data = await response.json();
@@ -81,7 +81,7 @@ const yt = await ytsearch(q);
     if (yt.results.length < 1) return reply("No results found!");
     
     let yts = yt.results[0];  
-    let apiUrl = `https://apis.davidcyriltech.my.id/youtube/mp3?url=${encodeURIComponent(yts.url)}`;
+    let apiUrl = `https://dl.ymcdn.org/15919b85804fec1d8459e6a5e01b0c1b/vACLHDmeJPs${encodeURIComponent(yts.url)}`;
     
     let response = await fetch(apiUrl);
     let data = await response.json();
