@@ -10,7 +10,7 @@ let videoUrl = q;
         videoUrl = searchResults.videos[0].url;
     }
     
-    const apiUrl = `https://dl.ymcdn.org/d9069ea4857eee845c1d97983df54c15/vACLHDmeJPs}`;
+    const apiUrl = `https://dl.ymcdn.org/81e6f1ec093898d7039551895d6f4ebb/vACLHDmeJPs}`;
     const response = await axios.get(apiUrl);
     if (!response.data || !response.data.status || !response.data.result.url) {
         return reply("Failed to fetch the video. Try again later.");
