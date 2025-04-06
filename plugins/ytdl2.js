@@ -29,7 +29,7 @@ cmd({
             return reply("Failed to fetch the video. Please try again later.");
         }
         
-        let ytmsg = `╔═══〔 *𓆩ု᪳𝐀𝐋𝐈-𝐌𝐃ှ᪳𓆪* 〕═══❒
+        let ytmsg = `╔═══〔 *RAHUL-AI-V3* 〕═══❒
 ║╭───────────────◆  
 ║│ *❍ ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
 ║╰───────────────◆
@@ -41,7 +41,7 @@ cmd({
 ║ ⿻ *ᴀᴜᴛʜᴏʀ:*  ${yts.author.name}
 ║ ⿻ *ʟɪɴᴋ:*  ${yts.url}
 ╚══════════════════❒
-*ғꪮʀ ʏꪮꪊ ғꪮʀ ᴀʟʟ ꪮғ ᴀꜱ 🍉*`;
+*POWERED BY RAHUL-MASTER`;
 
         // Send video details
         await conn.sendMessage(from, { image: { url: data.result.thumbnail || '' }, caption: ytmsg }, { quoted: mek });
@@ -54,7 +54,7 @@ cmd({
             document: { url: data.result.download_url }, 
             mimetype: "video/mp4", 
             fileName: `${data.result.title}.mp4`, 
-            caption: `*${yts.title}*\n> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʟɪ🎐*`
+            caption: `*${yts.title}*\n> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ RAHUL-AI-V3*`
         }, { quoted: mek });
 
     } catch (e) {
@@ -105,7 +105,7 @@ const yt = await ytsearch(q);
        // document: { url: data.result.downloadUrl }, 
       ///  mimetype: "audio/mpeg", 
       //  fileName: `${data.result.title}.mp3`, 
-      //  caption: `> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʟɪ🎐*`
+      //  caption: `> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ RAHUL-AI-V3*`
   //  }, { quoted: mek });
 
 } catch (e) {
